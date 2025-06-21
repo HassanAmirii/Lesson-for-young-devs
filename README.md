@@ -1,4 +1,6 @@
-## 🛠️ Developer Habits & Real Lessons
+> I owe much of my programming knowledge to the Web and Open Source, although i'm still very early into programming, but as someone that really likes building useful tools, i decided to curate list of stuggles i've experienced + lessons from the experienced, i hope you find this useful and i'd be glad if you could also be a contributor.
+
+## 🛠️ Developer Struggles & Real Lessons
 
 | S/N | Struggle / Pattern                    | 🔥 Inspiring YouTube Link                                                               | 📖 Blog / Notes                | 🧠 What To Do Instead                                                                                 |
 | --- | ------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
