@@ -69,9 +69,14 @@ if (!fs.existsSync(mdPath)) {
   fs.writeFileSync(jsonPath, JSON.stringify(lessons, null, 2));
 
   // --- Append Markdown row ---
-  const mdRow = `| ${sn} | ${struggle || "-"} | ${ytLink || "-"} | ${
-    blogLink || "-"
-  } | ${remedy || "-"} |\n`;
+  // Format links if they exist
+  const ytDisplay = ytLink ? `[Watch](${ytLink})` : "-";
+  const blogDisplay = blogLink ? `[Read](${blogLink})` : "-";
+
+  const mdRow = `| ${sn} | ${
+    struggle || "-"
+  } | ${ytDisplay} | ${blogDisplay} | ${remedy || "-"} |\n`;
+
   fs.appendFileSync(mdPath, mdRow);
 
   console.log(
