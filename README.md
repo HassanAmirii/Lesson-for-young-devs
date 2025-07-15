@@ -1,6 +1,6 @@
 ## 🛠️ Developer Struggles & Real Lessons
 
-| S/N | Struggle / Pattern     | 🔥 Inspiring YouTube Link                            | 📖 Blog / Notes                                                                                             | 🧠 What To Do Instead                                                                                  |
+| S/N | Struggle / Pattern     | Inspiring YouTube Link                               | Blog / Notes                                                                                                | What To Do Instead                                                                                     |
 | --- | ---------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | 1   | Avoiding hard problems | [Watch](https://www.youtube.com/watch?v=XqpFCuPAEPo) | [Read](https://www.jimmyvanveen.com/blog/do-hard-things)                                                    | It's simple really, when it get hard, get to the end of it. "only the mediocre are only at their best" |
 | 2   | Imposter Syndrome      | [Watch](https://www.youtube.com/watch?v=u2trdurv638) | [Read](https://www.geeksforgeeks.org/blogs/imposter-syndrome-in-software-developers-am-i-a-fake-developer/) | keep track of your achievements, and believe you can do anything.                                      |
